@@ -25,7 +25,7 @@
 ## 💾 Установка
 
 ```bash
-git clone 
+git clone https://github.com/khost73/BLACKEVENT-DOSTYT.git
 cd yt-chat-bot
 pip install -r requirements.txt
 python chat_bot.py
