@@ -28,4 +28,4 @@
 git clone https://github.com/khost73/BLACKEVENT-DOSTYT.git
 cd BLACKEVENT-DOSTYT
 pip install -r requirements.txt
-python chat_bot.py
+python BLACKEVENT-DOSTYT.py
